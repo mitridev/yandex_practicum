@@ -1,0 +1,9 @@
+.vscode
+.module-cache
+.DS_Store
+jspm_packages/
+*.swp
+*.log
+.eslintcache
+node_modules/
+*.lock
